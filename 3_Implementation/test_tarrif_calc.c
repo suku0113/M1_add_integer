@@ -29,7 +29,7 @@ int main()
 {
     
   
-   // printf("\t\t\t\t\t\tWelcome to Tariff calculation\n\n\n");
+   
     UnityBegin(NULL);
     
     RUN_TEST(test_Residential);
