@@ -6,7 +6,7 @@
 int main()
 {
     int units;
-    int prev_readin, cur_reading;
+    int prev_reading, cur_reading;
     float Sur_Charges, customer_charges, per_unit_charge, Energy_charges, fixed_charges, ED_charges;
     char group;
     double Bill_amount;
